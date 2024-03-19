@@ -4,6 +4,8 @@
 
 This is a work-in-progress project in which we perform exploratory data analysis using the WHO's dataset recording alcohol consumption during the years 2010-2019.
 
+alcohol_data.xlsx is an Excel spreadsheet containing the complete dataset provided by the World Health Organization.
+
 ### Data Source
 
 The dataset for this project was provided by the World Health Organization:
