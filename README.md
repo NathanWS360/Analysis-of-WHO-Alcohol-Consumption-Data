@@ -6,6 +6,8 @@ This is a work-in-progress project in which we perform exploratory data analysis
 
 alcohol_data.xlsx is an Excel spreadsheet containing the complete dataset provided by the World Health Organization.
 
+Interactive Alcohol Report.pbix is a PowerBI report which allows the user to view a line chart showing alcohol consumption by type over the years, as well as a pie chart showing total consumption split up by type; each chart can be filtered to a specific country by clicking that country on the map, and the pie chart can also be filtered down to a specific year by clicking the appropriate year on the line chart.
+
 ### Data Source
 
 The dataset for this project was provided by the World Health Organization:
