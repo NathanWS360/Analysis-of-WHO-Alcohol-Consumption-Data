@@ -31,4 +31,5 @@ The exploratory analysis in this project aims to answer the following questions:
 - Microsoft Excel, for data cleaning and viewing.
 - MySQL, for making queries on the dataset to narrow down the data for analysis.
 - Microsoft PowerBI, for creating the interactive report for visualization.
-- Rstudio, for further analysis.
+- RStudio, for further analysis and visualization.
+- Microsoft Word, for composing the final report.
