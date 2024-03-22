@@ -1,0 +1,753 @@
+Country,Types,Total_Consumption
+Afghanistan,Beer,0.01
+Afghanistan,Wine,0
+Afghanistan,Spirits,0.05
+Afghanistan,"Other alcoholic beverages",0.04
+Albania,Beer,15.7
+Albania,Wine,10.99
+Albania,Spirits,17.15
+Albania,"Other alcoholic beverages",0.85
+Algeria,Beer,2.71
+Algeria,Wine,1.64
+Algeria,Spirits,0.76
+Algeria,"Other alcoholic beverages",0
+Andorra,Beer,32.52
+Andorra,Wine,48.81
+Andorra,Spirits,23.93
+Andorra,"Other alcoholic beverages",0
+Angola,Beer,40.06
+Angola,Wine,8.41
+Angola,Spirits,20.13
+Angola,"Other alcoholic beverages",1.04
+"Antigua and Barbuda",Beer,27.66
+"Antigua and Barbuda",Wine,27
+"Antigua and Barbuda",Spirits,36.86
+"Antigua and Barbuda","Other alcoholic beverages",2.93
+Argentina,Beer,34.7
+Argentina,Wine,32.77
+Argentina,Spirits,6.17
+Argentina,"Other alcoholic beverages",7.46
+Armenia,Beer,4.38
+Armenia,Wine,2.99
+Armenia,Spirits,32.07
+Armenia,"Other alcoholic beverages",0.08
+Australia,Beer,39.75
+Australia,Wine,37.66
+Australia,Spirits,12.76
+Australia,"Other alcoholic beverages",8.56
+Austria,Beer,61.5
+Austria,Wine,38.8
+Austria,Spirits,18.7
+Austria,"Other alcoholic beverages",0
+Azerbaijan,Beer,2.96
+Azerbaijan,Wine,1.44
+Azerbaijan,Spirits,2.13
+Azerbaijan,"Other alcoholic beverages",0.08
+Bahamas,Beer,36.61
+Bahamas,Wine,13.47
+Bahamas,Spirits,39.18
+Bahamas,"Other alcoholic beverages",3.64
+Bahrain,Beer,3.87
+Bahrain,Wine,1.01
+Bahrain,Spirits,10.03
+Bahrain,"Other alcoholic beverages",0.18
+Bangladesh,Beer,0
+Bangladesh,Wine,0
+Bangladesh,Spirits,0
+Bangladesh,"Other alcoholic beverages",0
+Barbados,Beer,34.59
+Barbados,Wine,13.3
+Barbados,Spirits,44.72
+Barbados,"Other alcoholic beverages",1.83
+Belarus,Beer,21.94
+Belarus,Wine,8.2
+Belarus,Spirits,51.54
+Belarus,"Other alcoholic beverages",34.6
+Belgium,Beer,46.25
+Belgium,Wine,36.67
+Belgium,Spirits,13.34
+Belgium,"Other alcoholic beverages",2.61
+Belize,Beer,41.1
+Belize,Wine,5.54
+Belize,Spirits,15.54
+Belize,"Other alcoholic beverages",1.47
+Benin,Beer,8.89
+Benin,Wine,0.88
+Benin,Spirits,1.88
+Benin,"Other alcoholic beverages",2.34
+Bhutan,Beer,0.83
+Bhutan,Wine,0.18
+Bhutan,Spirits,0.53
+Bhutan,"Other alcoholic beverages",0
+"Bolivia (Plurinational State of)",Beer,23.74
+"Bolivia (Plurinational State of)",Wine,1.46
+"Bolivia (Plurinational State of)",Spirits,5.79
+"Bolivia (Plurinational State of)","Other alcoholic beverages",0.58
+"Bosnia and Herzegovina",Beer,37.64
+"Bosnia and Herzegovina",Wine,4.54
+"Bosnia and Herzegovina",Spirits,5.86
+"Bosnia and Herzegovina","Other alcoholic beverages",1.53
+Botswana,Beer,28.66
+Botswana,Wine,3.6
+Botswana,Spirits,8.69
+Botswana,"Other alcoholic beverages",17.51
+Brazil,Beer,40.66
+Brazil,Wine,2.56
+Brazil,Spirits,23.19
+Brazil,"Other alcoholic beverages",0.33
+"Brunei Darussalam",Beer,6.53
+"Brunei Darussalam",Wine,0.25
+"Brunei Darussalam",Spirits,0.13
+"Brunei Darussalam","Other alcoholic beverages",0
+Bulgaria,Beer,42.43
+Bulgaria,Wine,16.78
+Bulgaria,Spirits,46.75
+Bulgaria,"Other alcoholic beverages",0.9
+"Burkina Faso",Beer,7.93
+"Burkina Faso",Wine,0.51
+"Burkina Faso",Spirits,2.4
+"Burkina Faso","Other alcoholic beverages",53.8
+Burundi,Beer,17.42
+Burundi,Wine,0.03
+Burundi,Spirits,0.02
+Burundi,"Other alcoholic beverages",24.18
+"Cabo Verde",Beer,23.51
+"Cabo Verde",Wine,17.29
+"Cabo Verde",Spirits,6.28
+"Cabo Verde","Other alcoholic beverages",0
+Cambodia,Beer,29.31
+Cambodia,Wine,0.17
+Cambodia,Spirits,4.03
+Cambodia,"Other alcoholic beverages",0
+Cameroon,Beer,26.41
+Cameroon,Wine,1.35
+Cameroon,Spirits,0.09
+Cameroon,"Other alcoholic beverages",22.64
+Canada,Beer,38
+Canada,Wine,20.1
+Canada,Spirits,20.8
+Canada,"Other alcoholic beverages",2.7
+"Central African Republic",Beer,4.39
+"Central African Republic",Wine,0.22
+"Central African Republic",Spirits,0.17
+"Central African Republic","Other alcoholic beverages",9.26
+Chad,Beer,4.01
+Chad,Wine,0.25
+Chad,Spirits,0.23
+Chad,"Other alcoholic beverages",1.59
+Chile,Beer,26.66
+Chile,Wine,26.53
+Chile,Spirits,23.87
+Chile,"Other alcoholic beverages",0
+China,Beer,17.37
+China,Wine,1.89
+China,Spirits,34.42
+China,"Other alcoholic beverages",0
+Colombia,Beer,30.67
+Colombia,Wine,0.54
+Colombia,Spirits,11.15
+Colombia,"Other alcoholic beverages",0.2
+Comoros,Beer,0.37
+Comoros,Wine,0.52
+Comoros,Spirits,0.65
+Comoros,"Other alcoholic beverages",0
+Congo,Beer,42.74
+Congo,Wine,1.38
+Congo,Spirits,4.65
+Congo,"Other alcoholic beverages",0.18
+"Cook Islands",Beer,32.98
+"Cook Islands",Wine,23.95
+"Cook Islands",Spirits,67.91
+"Cook Islands","Other alcoholic beverages",0
+"Costa Rica",Beer,22.46
+"Costa Rica",Wine,1.69
+"Costa Rica",Spirits,4.61
+"Costa Rica","Other alcoholic beverages",3.6
+"CÃ´te d'Ivoire",Beer,9.07
+"CÃ´te d'Ivoire",Wine,3.24
+"CÃ´te d'Ivoire",Spirits,1.3
+"CÃ´te d'Ivoire","Other alcoholic beverages",0.48
+Croatia,Beer,45.94
+Croatia,Wine,41.83
+Croatia,Spirits,13.04
+Croatia,"Other alcoholic beverages",3.75
+Cuba,Beer,17.19
+Cuba,Wine,2.21
+Cuba,Spirits,25.65
+Cuba,"Other alcoholic beverages",0.18
+Cyprus,Beer,31.61
+Cyprus,Wine,26.72
+Cyprus,Spirits,40.94
+Cyprus,"Other alcoholic beverages",0
+Czechia,Beer,68.1
+Czechia,Wine,27.17
+Czechia,Spirits,31.99
+Czechia,"Other alcoholic beverages",0
+"Democratic People's Republic of Korea",Beer,1.08
+"Democratic People's Republic of Korea",Wine,0
+"Democratic People's Republic of Korea",Spirits,34.81
+"Democratic People's Republic of Korea","Other alcoholic beverages",0
+"Democratic Republic of the Congo",Beer,6.15
+"Democratic Republic of the Congo",Wine,0.1
+"Democratic Republic of the Congo",Spirits,0.35
+"Democratic Republic of the Congo","Other alcoholic beverages",0
+Denmark,Beer,35.59
+Denmark,Wine,43.63
+Denmark,Spirits,15.84
+Denmark,"Other alcoholic beverages",0.61
+Djibouti,Beer,1.15
+Djibouti,Wine,0.25
+Djibouti,Spirits,1.9
+Djibouti,"Other alcoholic beverages",0
+Dominica,Beer,20.65
+Dominica,Wine,3.04
+Dominica,Spirits,55.65
+Dominica,"Other alcoholic beverages",0
+"Dominican Republic",Beer,28.8
+"Dominican Republic",Wine,1.45
+"Dominican Republic",Spirits,23.76
+"Dominican Republic","Other alcoholic beverages",0.63
+Ecuador,Beer,26.7
+Ecuador,Wine,0.68
+Ecuador,Spirits,7.68
+Ecuador,"Other alcoholic beverages",0.21
+Egypt,Beer,1.01
+Egypt,Wine,0.11
+Egypt,Spirits,0.55
+Egypt,"Other alcoholic beverages",0
+"El Salvador",Beer,11.76
+"El Salvador",Wine,0.54
+"El Salvador",Spirits,13.32
+"El Salvador","Other alcoholic beverages",0.08
+"Equatorial Guinea",Beer,49.67
+"Equatorial Guinea",Wine,15.57
+"Equatorial Guinea",Spirits,13.45
+"Equatorial Guinea","Other alcoholic beverages",0.58
+Eritrea,Beer,5.19
+Eritrea,Wine,0
+Eritrea,Spirits,0
+Eritrea,"Other alcoholic beverages",5.04
+Estonia,Beer,54.79
+Estonia,Wine,20.46
+Estonia,Spirits,58.8
+Estonia,"Other alcoholic beverages",17.06
+Eswatini,Beer,21.69
+Eswatini,Wine,0.59
+Eswatini,Spirits,0.3
+Eswatini,"Other alcoholic beverages",50.07
+Ethiopia,Beer,5.98
+Ethiopia,Wine,0.02
+Ethiopia,Spirits,1.4
+Ethiopia,"Other alcoholic beverages",0.18
+Fiji,Beer,15.93
+Fiji,Wine,2.28
+Fiji,Spirits,7.45
+Fiji,"Other alcoholic beverages",0
+Finland,Beer,41.81
+Finland,Wine,17.83
+Finland,Spirits,13.39
+Finland,"Other alcoholic beverages",15.5
+France,Beer,22.11
+France,Wine,69.69
+France,Spirits,24.71
+France,"Other alcoholic beverages",2.14
+Gabon,Beer,56.69
+Gabon,Wine,7.84
+Gabon,Spirits,10.01
+Gabon,"Other alcoholic beverages",0.7
+Gambia,Beer,1.87
+Gambia,Wine,0.06
+Gambia,Spirits,0.11
+Gambia,"Other alcoholic beverages",24.76
+Georgia,Beer,15.31
+Georgia,Wine,27.73
+Georgia,Spirits,28.69
+Georgia,"Other alcoholic beverages",0.12
+Germany,Beer,58.54
+Germany,Wine,31.41
+Germany,Spirits,20.74
+Germany,"Other alcoholic beverages",0
+Ghana,Beer,4.74
+Ghana,Wine,0.62
+Ghana,Spirits,4.28
+Ghana,"Other alcoholic beverages",7.19
+Greece,Beer,21.57
+Greece,Wine,32.72
+Greece,Spirits,15.61
+Greece,"Other alcoholic beverages",0.93
+Grenada,Beer,33.86
+Grenada,Wine,5.2
+Grenada,Spirits,39.43
+Grenada,"Other alcoholic beverages",2.51
+Guatemala,Beer,9
+Guatemala,Wine,0.42
+Guatemala,Spirits,8.15
+Guatemala,"Other alcoholic beverages",0.1
+Guinea,Beer,2.69
+Guinea,Wine,0.12
+Guinea,Spirits,0.17
+Guinea,"Other alcoholic beverages",0
+Guinea-Bissau,Beer,4.32
+Guinea-Bissau,Wine,9.22
+Guinea-Bissau,Spirits,5.25
+Guinea-Bissau,"Other alcoholic beverages",12.67
+Guyana,Beer,25.28
+Guyana,Wine,0.17
+Guyana,Spirits,29
+Guyana,"Other alcoholic beverages",0.28
+Haiti,Beer,2.94
+Haiti,Wine,0.17
+Haiti,Spirits,24.23
+Haiti,"Other alcoholic beverages",0.09
+Honduras,Beer,12.84
+Honduras,Wine,0.3
+Honduras,Spirits,13.32
+Honduras,"Other alcoholic beverages",0
+Hungary,Beer,39.44
+Hungary,Wine,32.99
+Hungary,Spirits,37
+Hungary,"Other alcoholic beverages",0
+Iceland,Beer,40.46
+Iceland,Wine,20.3
+Iceland,Spirits,11.84
+Iceland,"Other alcoholic beverages",0
+India,Beer,2.05
+India,Wine,0
+India,Spirits,27.64
+India,"Other alcoholic beverages",0
+Indonesia,Beer,0.63
+Indonesia,Wine,0.1
+Indonesia,Spirits,0.11
+Indonesia,"Other alcoholic beverages",0
+"Iran (Islamic Republic of)",Beer,0
+"Iran (Islamic Republic of)",Wine,0
+"Iran (Islamic Republic of)",Spirits,0.21
+"Iran (Islamic Republic of)","Other alcoholic beverages",0
+Iraq,Beer,1.13
+Iraq,Wine,0.04
+Iraq,Spirits,0.45
+Iraq,"Other alcoholic beverages",0
+Ireland,Beer,51.89
+Ireland,Wine,28.94
+Ireland,Spirits,21.71
+Ireland,"Other alcoholic beverages",8.62
+Israel,Beer,15.54
+Israel,Wine,0.94
+Israel,Spirits,11.63
+Israel,"Other alcoholic beverages",0.46
+Italy,Beer,17.9
+Italy,Wine,47.54
+Italy,Spirits,7.96
+Italy,"Other alcoholic beverages",0
+Jamaica,Beer,11.06
+Jamaica,Wine,1.82
+Jamaica,Spirits,17.22
+Jamaica,"Other alcoholic beverages",2.18
+Japan,Beer,15.04
+Japan,Wine,3.6
+Japan,Spirits,11.35
+Japan,"Other alcoholic beverages",55.33
+Jordan,Beer,0.58
+Jordan,Wine,0.04
+Jordan,Spirits,2.64
+Jordan,"Other alcoholic beverages",0.06
+Kazakhstan,Beer,20.27
+Kazakhstan,Wine,0.99
+Kazakhstan,Spirits,15.61
+Kazakhstan,"Other alcoholic beverages",0.09
+Kenya,Beer,8.56
+Kenya,Wine,0.22
+Kenya,Spirits,6.91
+Kenya,"Other alcoholic beverages",0.19
+Kiribati,Beer,3.49
+Kiribati,Wine,0.13
+Kiribati,Spirits,0.95
+Kiribati,"Other alcoholic beverages",0
+Kuwait,Beer,0
+Kuwait,Wine,0
+Kuwait,Spirits,0
+Kuwait,"Other alcoholic beverages",0
+Kyrgyzstan,Beer,5.44
+Kyrgyzstan,Wine,2.77
+Kyrgyzstan,Spirits,45.95
+Kyrgyzstan,"Other alcoholic beverages",0
+"Lao People's Democratic Republic",Beer,30.69
+"Lao People's Democratic Republic",Wine,0.63
+"Lao People's Democratic Republic",Spirits,39.48
+"Lao People's Democratic Republic","Other alcoholic beverages",0
+Latvia,Beer,48.74
+Latvia,Wine,12.84
+Latvia,Spirits,43.27
+Latvia,"Other alcoholic beverages",7.12
+Lebanon,Beer,3.37
+Lebanon,Wine,2.32
+Lebanon,Spirits,6.25
+Lebanon,"Other alcoholic beverages",0.2
+Lesotho,Beer,16.14
+Lesotho,Wine,1.2
+Lesotho,Spirits,4.22
+Lesotho,"Other alcoholic beverages",7.26
+Liberia,Beer,4.08
+Liberia,Wine,1.2
+Liberia,Spirits,27.36
+Liberia,"Other alcoholic beverages",0.16
+Libya,Beer,0.01
+Libya,Wine,0.03
+Libya,Spirits,0.02
+Libya,"Other alcoholic beverages",0.03
+Lithuania,Beer,52.15
+Lithuania,Wine,11.63
+Lithuania,Spirits,53.66
+Lithuania,"Other alcoholic beverages",18.84
+Luxembourg,Beer,40.32
+Luxembourg,Wine,50.55
+Luxembourg,Spirits,22.73
+Luxembourg,"Other alcoholic beverages",0
+Madagascar,Beer,4.78
+Madagascar,Wine,0.81
+Madagascar,Spirits,3.25
+Madagascar,"Other alcoholic beverages",0
+Malawi,Beer,1.31
+Malawi,Wine,0.02
+Malawi,Spirits,2.14
+Malawi,"Other alcoholic beverages",16.19
+Malaysia,Beer,4.27
+Malaysia,Wine,0.33
+Malaysia,Spirits,1.13
+Malaysia,"Other alcoholic beverages",0.1
+Maldives,Beer,3.28
+Maldives,Wine,5.5
+Maldives,Spirits,4.72
+Maldives,"Other alcoholic beverages",0
+Mali,Beer,0.88
+Mali,Wine,0.05
+Mali,Spirits,0.16
+Mali,"Other alcoholic beverages",4.96
+Malta,Beer,27.75
+Malta,Wine,22.31
+Malta,Spirits,20.79
+Malta,"Other alcoholic beverages",3.54
+Mauritania,Beer,0
+Mauritania,Wine,0
+Mauritania,Spirits,0
+Mauritania,"Other alcoholic beverages",0
+Mauritius,Beer,18.09
+Mauritius,Wine,2.16
+Mauritius,Spirits,8.68
+Mauritius,"Other alcoholic beverages",0.28
+Mexico,Beer,35.6
+Mexico,Wine,1.89
+Mexico,Spirits,1.96
+Mexico,"Other alcoholic beverages",1.45
+"Micronesia (Federated States of)",Beer,9.07
+"Micronesia (Federated States of)",Wine,3.14
+"Micronesia (Federated States of)",Spirits,5.2
+"Micronesia (Federated States of)","Other alcoholic beverages",0.11
+Mongolia,Beer,21.03
+Mongolia,Wine,14.06
+Mongolia,Spirits,41.83
+Mongolia,"Other alcoholic beverages",0
+Montenegro,Beer,38.41
+Montenegro,Wine,25.34
+Montenegro,Spirits,27.77
+Montenegro,"Other alcoholic beverages",1.92
+Morocco,Beer,1.75
+Morocco,Wine,1.94
+Morocco,Spirits,0.79
+Morocco,"Other alcoholic beverages",0
+Mozambique,Beer,8.82
+Mozambique,Wine,1.11
+Mozambique,Spirits,1.72
+Mozambique,"Other alcoholic beverages",0.05
+Myanmar,Beer,3.41
+Myanmar,Wine,0.14
+Myanmar,Spirits,11.19
+Myanmar,"Other alcoholic beverages",0
+Namibia,Beer,12.34
+Namibia,Wine,1.48
+Namibia,Spirits,5.61
+Namibia,"Other alcoholic beverages",3.79
+Nauru,Beer,7.75
+Nauru,Wine,1.15
+Nauru,Spirits,20.38
+Nauru,"Other alcoholic beverages",0
+Nepal,Beer,1.75
+Nepal,Wine,0.03
+Nepal,Spirits,1.08
+Nepal,"Other alcoholic beverages",0
+Netherlands,Beer,41.44
+Netherlands,Wine,29.95
+Netherlands,Spirits,14.19
+Netherlands,"Other alcoholic beverages",0
+"New Zealand",Beer,34.29
+"New Zealand",Wine,30.14
+"New Zealand",Spirits,15.12
+"New Zealand","Other alcoholic beverages",11.85
+Nicaragua,Beer,14.35
+Nicaragua,Wine,0.32
+Nicaragua,Spirits,21.51
+Nicaragua,"Other alcoholic beverages",0.01
+Niger,Beer,0.46
+Niger,Wine,0.1
+Niger,Spirits,0.62
+Niger,"Other alcoholic beverages",0
+Nigeria,Beer,7.15
+Nigeria,Wine,0.84
+Nigeria,Spirits,3.56
+Nigeria,"Other alcoholic beverages",34.59
+Niue,Beer,36.62
+Niue,Wine,16.32
+Niue,Spirits,25.59
+Niue,"Other alcoholic beverages",0
+Norway,Beer,26.85
+Norway,Wine,22.48
+Norway,Spirits,10.69
+Norway,"Other alcoholic beverages",1.56
+Oman,Beer,1.77
+Oman,Wine,0.18
+Oman,Spirits,2.71
+Oman,"Other alcoholic beverages",0.02
+Pakistan,Beer,0
+Pakistan,Wine,0
+Pakistan,Spirits,0.34
+Pakistan,"Other alcoholic beverages",0
+Panama,Beer,48.27
+Panama,Wine,1.42
+Panama,Spirits,14.4
+Panama,"Other alcoholic beverages",0.21
+"Papua New Guinea",Beer,7.01
+"Papua New Guinea",Wine,0.39
+"Papua New Guinea",Spirits,3.83
+"Papua New Guinea","Other alcoholic beverages",0
+Paraguay,Beer,32.16
+Paraguay,Wine,6.73
+Paraguay,Spirits,16.85
+Paraguay,"Other alcoholic beverages",0.54
+Peru,Beer,31.41
+Peru,Wine,4.19
+Peru,Spirits,19.48
+Peru,"Other alcoholic beverages",0.1
+Philippines,Beer,12.67
+Philippines,Wine,0.26
+Philippines,Spirits,34.04
+Philippines,"Other alcoholic beverages",0.37
+Poland,Beer,57.32
+Poland,Wine,8.75
+Poland,Spirits,38.69
+Poland,"Other alcoholic beverages",0
+Portugal,Beer,26.52
+Portugal,Wine,59.48
+Portugal,Spirits,13.71
+Portugal,"Other alcoholic beverages",3.69
+Qatar,Beer,2.93
+Qatar,Wine,0.83
+Qatar,Spirits,6.35
+Qatar,"Other alcoholic beverages",0.08
+"Republic of Korea",Beer,18.84
+"Republic of Korea",Wine,1.46
+"Republic of Korea",Spirits,3.03
+"Republic of Korea","Other alcoholic beverages",59.23
+"Republic of Moldova",Beer,16.42
+"Republic of Moldova",Wine,32.68
+"Republic of Moldova",Spirits,23.44
+"Republic of Moldova","Other alcoholic beverages",3.1
+"North Macedonia",Beer,17.28
+"North Macedonia",Wine,10.41
+"North Macedonia",Spirits,8.51
+"North Macedonia","Other alcoholic beverages",0.29
+Romania,Beer,51.59
+Romania,Wine,30.58
+Romania,Spirits,17.28
+Romania,"Other alcoholic beverages",0
+"Russian Federation",Beer,36.26
+"Russian Federation",Wine,9.23
+"Russian Federation",Spirits,41.13
+"Russian Federation","Other alcoholic beverages",1.68
+Rwanda,Beer,2.08
+Rwanda,Wine,0.18
+Rwanda,Spirits,0.95
+Rwanda,"Other alcoholic beverages",61.29
+"Saint Kitts and Nevis",Beer,34.58
+"Saint Kitts and Nevis",Wine,8.65
+"Saint Kitts and Nevis",Spirits,40.37
+"Saint Kitts and Nevis","Other alcoholic beverages",1.93
+"Saint Lucia",Beer,32.77
+"Saint Lucia",Wine,6.78
+"Saint Lucia",Spirits,50.05
+"Saint Lucia","Other alcoholic beverages",5.33
+"Saint Vincent and the Grenadines",Beer,24.97
+"Saint Vincent and the Grenadines",Wine,3.35
+"Saint Vincent and the Grenadines",Spirits,43.01
+"Saint Vincent and the Grenadines","Other alcoholic beverages",1.77
+Samoa,Beer,20.2
+Samoa,Wine,0.19
+Samoa,Spirits,1.45
+Samoa,"Other alcoholic beverages",0
+"Sao Tome and Principe",Beer,6.45
+"Sao Tome and Principe",Wine,41.53
+"Sao Tome and Principe",Spirits,2.64
+"Sao Tome and Principe","Other alcoholic beverages",0
+"Saudi Arabia",Beer,0
+"Saudi Arabia",Wine,0
+"Saudi Arabia",Spirits,0
+"Saudi Arabia","Other alcoholic beverages",0
+Senegal,Beer,1.65
+Senegal,Wine,0.2
+Senegal,Spirits,0.26
+Senegal,"Other alcoholic beverages",0
+Serbia,Beer,31.67
+Serbia,Wine,21.39
+Serbia,Spirits,22.98
+Serbia,"Other alcoholic beverages",2.25
+Seychelles,Beer,38.55
+Seychelles,Wine,4.63
+Seychelles,Spirits,39.16
+Seychelles,"Other alcoholic beverages",2.05
+"Sierra Leone",Beer,1.55
+"Sierra Leone",Wine,0.03
+"Sierra Leone",Spirits,0.57
+"Sierra Leone","Other alcoholic beverages",29.8
+Singapore,Beer,12.79
+Singapore,Wine,2.72
+Singapore,Spirits,2.63
+Singapore,"Other alcoholic beverages",0.33
+Slovakia,Beer,34.96
+Slovakia,Wine,23.03
+Slovakia,Spirits,42.98
+Slovakia,"Other alcoholic beverages",0
+Slovenia,Beer,47.9
+Slovenia,Wine,48.19
+Slovenia,Spirits,9.42
+Slovenia,"Other alcoholic beverages",0
+"Solomon Islands",Beer,10.24
+"Solomon Islands",Wine,0.37
+"Solomon Islands",Spirits,0.22
+"Solomon Islands","Other alcoholic beverages",0
+Somalia,Beer,0
+Somalia,Wine,0
+Somalia,Spirits,0
+Somalia,"Other alcoholic beverages",0
+"South Africa",Beer,39.98
+"South Africa",Wine,12.76
+"South Africa",Spirits,12.87
+"South Africa","Other alcoholic beverages",6.52
+Spain,Beer,42.98
+Spain,Wine,27.92
+Spain,Spirits,23.17
+Spain,"Other alcoholic beverages",1.76
+"Sri Lanka",Beer,2.98
+"Sri Lanka",Wine,0.06
+"Sri Lanka",Spirits,22.95
+"Sri Lanka","Other alcoholic beverages",0.43
+Suriname,Beer,25.87
+Suriname,Wine,1.45
+Suriname,Spirits,27.85
+Suriname,"Other alcoholic beverages",1.62
+Sweden,Beer,26.46
+Sweden,Wine,34.19
+Sweden,Spirits,10.25
+Sweden,"Other alcoholic beverages",1.16
+Switzerland,Beer,31.47
+Switzerland,Wine,45.46
+Switzerland,Spirits,17.74
+Switzerland,"Other alcoholic beverages",1.2
+"Syrian Arab Republic",Beer,0.37
+"Syrian Arab Republic",Wine,0.01
+"Syrian Arab Republic",Spirits,2.34
+"Syrian Arab Republic","Other alcoholic beverages",0
+Tajikistan,Beer,3.65
+Tajikistan,Wine,0.1
+Tajikistan,Spirits,4.36
+Tajikistan,"Other alcoholic beverages",0
+Thailand,Beer,20.69
+Thailand,Wine,1.71
+Thailand,Spirits,45.56
+Thailand,"Other alcoholic beverages",0
+Timor-Leste,Beer,2.75
+Timor-Leste,Wine,0.85
+Timor-Leste,Spirits,0.37
+Timor-Leste,"Other alcoholic beverages",0.05
+Togo,Beer,6.48
+Togo,Wine,0.76
+Togo,Spirits,2.17
+Togo,"Other alcoholic beverages",3.37
+Tonga,Beer,1.93
+Tonga,Wine,1.08
+Tonga,Spirits,1.4
+Tonga,"Other alcoholic beverages",0
+"Trinidad and Tobago",Beer,28.8
+"Trinidad and Tobago",Wine,1.8
+"Trinidad and Tobago",Spirits,26.44
+"Trinidad and Tobago","Other alcoholic beverages",0.94
+Tunisia,Beer,9.46
+Tunisia,Wine,3.32
+Tunisia,Spirits,1.32
+Tunisia,"Other alcoholic beverages",0.21
+Turkey,Beer,7.48
+Turkey,Wine,1.34
+Turkey,Spirits,4.46
+Turkey,"Other alcoholic beverages",0
+Turkmenistan,Beer,5.68
+Turkmenistan,Wine,13.07
+Turkmenistan,Spirits,12.12
+Turkmenistan,"Other alcoholic beverages",0
+Tuvalu,Beer,0.31
+Tuvalu,Wine,10.3
+Tuvalu,Spirits,2.06
+Tuvalu,"Other alcoholic beverages",0
+Uganda,Beer,8.78
+Uganda,Wine,0.1
+Uganda,Spirits,5.99
+Uganda,"Other alcoholic beverages",61.78
+Ukraine,Beer,28.35
+Ukraine,Wine,3.63
+Ukraine,Spirits,36.83
+Ukraine,"Other alcoholic beverages",0.61
+"United Arab Emirates",Beer,2.17
+"United Arab Emirates",Wine,1.35
+"United Arab Emirates",Spirits,16.01
+"United Arab Emirates","Other alcoholic beverages",0.15
+"United Kingdom of Great Britain and Northern Ireland",Beer,34.66
+"United Kingdom of Great Britain and Northern Ireland",Wine,33.36
+"United Kingdom of Great Britain and Northern Ireland",Spirits,21.75
+"United Kingdom of Great Britain and Northern Ireland","Other alcoholic beverages",7.38
+"United Republic of Tanzania",Beer,7.14
+"United Republic of Tanzania",Wine,0.87
+"United Republic of Tanzania",Spirits,4.13
+"United Republic of Tanzania","Other alcoholic beverages",61.47
+"United States of America",Beer,41.34
+"United States of America",Wine,16.09
+"United States of America",Spirits,30.69
+"United States of America","Other alcoholic beverages",0
+Uruguay,Beer,19.17
+Uruguay,Wine,33.49
+Uruguay,Spirits,7.41
+Uruguay,"Other alcoholic beverages",0
+Uzbekistan,Beer,1.85
+Uzbekistan,Wine,0.97
+Uzbekistan,Spirits,19.73
+Uzbekistan,"Other alcoholic beverages",0
+Vanuatu,Beer,3.72
+Vanuatu,Wine,3.37
+Vanuatu,Spirits,8.73
+Vanuatu,"Other alcoholic beverages",0
+"Venezuela (Bolivarian Republic of)",Beer,38.63
+"Venezuela (Bolivarian Republic of)",Wine,0.45
+"Venezuela (Bolivarian Republic of)",Spirits,13.62
+"Venezuela (Bolivarian Republic of)","Other alcoholic beverages",0.65
+"Viet Nam",Beer,26.53
+"Viet Nam",Wine,0.21
+"Viet Nam",Spirits,2.22
+"Viet Nam","Other alcoholic beverages",0
+Yemen,Beer,0.31
+Yemen,Wine,0
+Yemen,Spirits,0
+Yemen,"Other alcoholic beverages",0
+Zambia,Beer,10.16
+Zambia,Wine,0.33
+Zambia,Spirits,2.08
+Zambia,"Other alcoholic beverages",21.14
+Zimbabwe,Beer,18.33
+Zimbabwe,Wine,0.52
+Zimbabwe,Spirits,3.88
+Zimbabwe,"Other alcoholic beverages",14.46
