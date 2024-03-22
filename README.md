@@ -2,11 +2,15 @@
 
 ### Overview
 
-This is a work-in-progress project in which we perform exploratory data analysis using the WHO's dataset recording alcohol consumption during the years 2010-2019.
+This is a project in which we perform exploratory data analysis using the WHO's dataset recording alcohol consumption during the years 2010-2019.
 
 alcohol_data.xlsx is an Excel spreadsheet containing the complete dataset provided by the World Health Organization.
 
 Interactive Alcohol Report.pbix is a PowerBI report which allows the user to view a line chart showing alcohol consumption by type over the years, as well as a pie chart showing total consumption split up by type; each chart can be filtered to a specific country by clicking that country on the map, and the pie chart can also be filtered down to a specific year by clicking the appropriate year on the line chart.
+
+The Output Tables folder contains a number of tables narrowed down from the full dataset using SQL queries.
+
+The SQL scripts folder contains SQL files containing the queries used to create the corresponding output tables.
 
 ### Data Source
 
@@ -31,5 +35,4 @@ The exploratory analysis in this project aims to answer the following questions:
 - Microsoft Excel, for data cleaning and viewing.
 - MySQL, for making queries on the dataset to narrow down the data for analysis.
 - Microsoft PowerBI, for creating the interactive report for visualization.
-- RStudio, for further analysis and visualization.
 - Microsoft Word, for composing the final report.
